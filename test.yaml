@@ -1,0 +1,4 @@
+test:
+  name: Test
+  description: "Get database tables info\
+    \ how many tables"
